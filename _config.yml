@@ -1,0 +1,28 @@
+name: Etoile
+favicon: null
+layout_spectrum: 0.6274989284574986
+typography_spectrum: 0.782336367527023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6433577861171216
+  lightness: 0.9297388400882483
+  saturation: 0.2679724059998989
+  rhythmicContrast: 0.5672815495636314
+purpose: []
